@@ -1,0 +1,10 @@
+base referer
+rect $df/de0/u_c_o_s___i_i_8_h.html 414,260 488,287
+rect $dc/dcc/app__shell_8h.html 406,412 496,439
+rect $dc/de5/app__serial_interface_8h.html 378,463 524,489
+rect $d0/de9/app__xmodem_8h.html 394,513 508,540
+rect $d6/d56/hw__init_8h.html 414,108 488,135
+rect $d5/d5f/hw__lcd_8h.html 414,564 488,591
+rect $da/d21/hw__uart0_8h.html 407,615 495,641
+rect $d1/d01/os__cpu_8h.html 579,285 654,312
+rect $da/d99/os__cfg_8h.html 580,235 652,261

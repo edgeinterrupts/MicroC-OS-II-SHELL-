@@ -1,0 +1,7 @@
+base referer
+rect $db/d57/app__main_8c.html 406,7 750,34
+rect $dc/d94/app__serial_interface_8c.html 378,58 778,84
+rect $d2/d56/app__shell_8c.html 851,134 1195,160
+rect $da/dd6/app__shell_services_8c.html 826,210 1220,236
+rect $d0/dd0/hw__uart0_8c.html 412,210 743,236
+rect $d0/d7e/app__shell_services_8h.html 388,159 767,186

@@ -1,0 +1,6 @@
+base referer
+rect $dc/d73/hw__common_8c.html 371,7 723,34
+rect $d1/dbd/hw__init_8c.html 388,58 705,84
+rect $d8/d2c/hw__lcd_8c.html 388,108 705,135
+rect $d0/dd0/hw__uart0_8c.html 773,184 1104,211
+rect $d1/d0b/includes_8h.html 387,210 707,236

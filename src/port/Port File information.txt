@@ -1,0 +1,9 @@
+Omer Farooq 
+RIT -- EE301-742
+Winter 2005
+
+NOTE: 
+I have not modified any of the port files except os_cpu_a.s. I have modified the 
+timer reload count since we are running off a 7.38 MHz oscillator. All the other files
+are from http://www.ucos-ii.com/ti/index.html.
+I do not want to take any credit for the code or comments. 
